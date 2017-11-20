@@ -1,0 +1,28 @@
+{
+  "name": "gruntclass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "GruntFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.2",
+    "grunt": "^1.0.1",
+    "grunt-bower-install-simple": "1.2.4",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^2.2.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-uglify": "^3.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-express-server": "^0.5.3",
+    "grunt-typescript": "^0.8.0",
+    "grunt-usemin": "^2.3.0",
+    "grunt-wiredep": "~1.9.0",
+    "serve-static": "^1.13.1"
+  }
+}

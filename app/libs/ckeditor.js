@@ -1,0 +1,2 @@
+
+    var ckeditor = 'sdfsdfsdf';
